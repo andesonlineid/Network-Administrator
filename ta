@@ -1,0 +1,26 @@
+[33mcommit 54cc4af7db4e2929ec973165610f84852e65fbde[m[33m ([m[1;36mHEAD -> [m[1;32mandes[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: andes online <mathscript787@gmail.com>
+Date:   Sun Sep 10 19:17:45 2023 +0700
+
+    adding practice computer network files start from LAN until IP Routing Static DHCP with 3 routers
+
+[1mdiff --git a/1. Local Area Network (LAN) - Subnetting VLSM Method.pkt b/1. Local Area Network (LAN) - Subnetting VLSM Method.pkt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..78ae7b2[m
+Binary files /dev/null and b/1. Local Area Network (LAN) - Subnetting VLSM Method.pkt differ
+[1mdiff --git a/2. Virtual Local Area Network (VLAN) Instruktur Laptop.pkt b/2. Virtual Local Area Network (VLAN) Instruktur Laptop.pkt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..9564177[m
+Binary files /dev/null and b/2. Virtual Local Area Network (VLAN) Instruktur Laptop.pkt differ
+[1mdiff --git a/3. Metropolitan Area Network (One Router) - Subnetting VLSM Method.pkt b/3. Metropolitan Area Network (One Router) - Subnetting VLSM Method.pkt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..fdcd780[m
+Binary files /dev/null and b/3. Metropolitan Area Network (One Router) - Subnetting VLSM Method.pkt differ
+[1mdiff --git a/4. IP Routing Static (2 Router).pkt b/4. IP Routing Static (2 Router).pkt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..8a633f1[m
+Binary files /dev/null and b/4. IP Routing Static (2 Router).pkt differ
+[1mdiff --git a/5. IP Routing Static (DHCP - 3 Router).pkt b/5. IP Routing Static (DHCP - 3 Router).pkt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..4e9334c[m
+Binary files /dev/null and b/5. IP Routing Static (DHCP - 3 Router).pkt differ
